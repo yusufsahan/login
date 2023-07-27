@@ -11,8 +11,13 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@types/node": "^18.17.0",
+    "autoprefixer": "^10.4.14",
+    "nuxt": "^3.6.5",
+    "postcss": "^8.4.27",
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
     "appwrite": "^11.0.0",
-    "node-appwrite": "^9.0.0",
-    "nuxt": "^3.6.5"
+    "nuxt3-appwrite": "^1.6.4"
   }
 }
